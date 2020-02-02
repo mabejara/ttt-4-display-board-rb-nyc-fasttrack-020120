@@ -11,4 +11,3 @@ def display_board(the_board)
 display_board(turn_1)
 turn_2 = ["X"," "," "," ","0"," "," "," "," "]
 display_board(turn_2)
-
