@@ -8,5 +8,5 @@ def display_board(board)
     puts " ---------"
     puts " #{board[6]} "," #{board[7]} "," #{board[9]} "
 
-display_board(turn_1)
+display_board("turn_1")
 end
